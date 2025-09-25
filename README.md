@@ -251,7 +251,3 @@ For fully offline unit tests, mock `boto3` clients for `ec2`, `cloudwatch`, and 
 - CSV/JSON artifact upload to S3 for audit/history.
 
 ---
-
-## License
-
-Calibo organization’s standard license.
