@@ -20,6 +20,17 @@ Runs as an AWS Lambda function and posts **alerts-only** (WARN/ALERT) to a Teams
 
 ---
 
+## Sample Output
+
+EC2 Utilization Alert (Adaptive Card)
+
+![EC2 Alert](images/ec2_alert.png)
+
+RDS Health Dashboard
+
+![RDS Dashboard](images/rds_dashboard.png)
+
+
 ## Repository layout
 
 ```
