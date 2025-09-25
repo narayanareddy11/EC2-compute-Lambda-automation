@@ -248,12 +248,3 @@ For fully offline unit tests, mock `boto3` clients for `ec2`, `cloudwatch`, and 
 - **No offenders** → Expected behavior; the function does not spam when all values are OK.
 
 ---
-
-## Roadmap / ideas
-
-- Add GPU, network, and EBS burst metrics.
-- Per‑ASG aggregation and auto‑remediation hooks.
-- Slack output alongside Teams.
-- CSV/JSON artifact upload to S3 for audit/history.
-
----
