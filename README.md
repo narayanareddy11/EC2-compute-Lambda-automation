@@ -24,7 +24,7 @@ Runs as an AWS Lambda function and posts **alerts-only** (WARN/ALERT) to a Teams
 
 EC2 Utilization Alert (Adaptive Card)
 
-![EC2 Alert](images/ec2.jpg)
+![EC2 Alert](images/Ec2.jpg)
 
 ## Repository layout
 
